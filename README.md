@@ -27,4 +27,4 @@ Additional client versions can be found in src/it/unibo/ai/didattica/competition
 - human player (insert moves from command line)
 
 
-Project developed by [L. Perugini](https://github.com/leonardoperu), [M. Rossi](https://github.com/smartisrossi), M. Minerva, D. Altena.
+Project developed by [L. Perugini](https://github.com/leonardoperu), [M. Rossi](https://github.com/smartisrossi), M. Minerva, D. Altena. :it:
