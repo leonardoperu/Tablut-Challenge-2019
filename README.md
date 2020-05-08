@@ -32,7 +32,7 @@ Project developed by [L. Perugini](https://github.com/leonardoperu), [M. Rossi](
 
 # :it: Tablut Challenge 2019
 
-**Progetto per il corso "Foundamenti di Intelligenza Artificiale", Laurea Magistrale in Ingegneria Informatica, Università di Bologna**
+**Progetto per il corso "Fondamenti di Intelligenza Artificiale", Laurea Magistrale in Ingegneria Informatica, Università di Bologna**
 
 
 Questa applicazione è stata sviluppata per una competizione di IA svolta durante il corso.
