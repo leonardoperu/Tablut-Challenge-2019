@@ -1,0 +1,14 @@
+{maxDepth=5, nodesExpanded=2707360}
+{maxDepth=5, nodesExpanded=2607880}
+{maxDepth=5, nodesExpanded=2189669}
+{maxDepth=5, nodesExpanded=2512882}
+{maxDepth=5, nodesExpanded=4868078}
+{maxDepth=5, nodesExpanded=3513564}
+{maxDepth=5, nodesExpanded=4592212}
+{maxDepth=5, nodesExpanded=3658026}
+{maxDepth=5, nodesExpanded=3986395}
+{maxDepth=5, nodesExpanded=3504006}
+{maxDepth=5, nodesExpanded=3723221}
+{maxDepth=5, nodesExpanded=3607161}
+{maxDepth=3, nodesExpanded=92627}
+{maxDepth=1, nodesExpanded=76}

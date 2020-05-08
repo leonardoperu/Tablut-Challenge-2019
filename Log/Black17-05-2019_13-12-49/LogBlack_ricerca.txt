@@ -1,0 +1,4 @@
+{maxDepth=5, nodesExpanded=2520731}
+{maxDepth=5, nodesExpanded=3391536}
+{maxDepth=5, nodesExpanded=3045914}
+{maxDepth=5, nodesExpanded=3136026}

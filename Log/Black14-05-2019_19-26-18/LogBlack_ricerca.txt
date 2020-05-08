@@ -1,0 +1,17 @@
+{maxDepth=5, nodesExpanded=2357245}
+{maxDepth=5, nodesExpanded=1867588}
+{maxDepth=5, nodesExpanded=1568811}
+{maxDepth=5, nodesExpanded=2459477}
+{maxDepth=5, nodesExpanded=2134346}
+{maxDepth=5, nodesExpanded=1924578}
+{maxDepth=5, nodesExpanded=2240548}
+{maxDepth=5, nodesExpanded=1953261}
+{maxDepth=5, nodesExpanded=2120061}
+{maxDepth=6, nodesExpanded=1852168}
+{maxDepth=5, nodesExpanded=2171174}
+{maxDepth=5, nodesExpanded=2277785}
+{maxDepth=5, nodesExpanded=2226907}
+{maxDepth=5, nodesExpanded=3030607}
+{maxDepth=5, nodesExpanded=2947663}
+{maxDepth=4, nodesExpanded=536354}
+{maxDepth=2, nodesExpanded=1899}
