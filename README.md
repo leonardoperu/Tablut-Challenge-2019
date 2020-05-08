@@ -28,3 +28,36 @@ Additional client versions can be found in src/it/unibo/ai/didattica/competition
 
 
 Project developed by [L. Perugini](https://github.com/leonardoperu), [M. Rossi](https://github.com/smartisrossi), M. Minerva, D. Altena. :it:
+
+
+# :it: Tablut Challenge 2019
+
+**Progetto per il corso "Foundamenti di Intelligenza Artificiale", Laurea Magistrale in Ingegneria Informatica, Università di Bologna**
+
+
+Questa applicazione è stata sviluppata per una competizione di IA svolta durante il corso.
+Il progetto è un client che implementa un giocatore di Ashton Tablut, basato sulla ricerca nello spazio degli stati con algoritmo minmax. L'algoritmo utilizzato è una ricerca iterativa in profondità (Iterative Deepening Search) con tagli Alfa-Beta, presente nella libreria Aima 3.0.0.
+
+
+La classe main è src/it/unibo/ai/clientImplementation/MyTablutClient. Accetta due argomenti:
+- il colore con cui si vuole giocare (black o white)
+- il tempo massimo per la ricerca nello spazio degli stati (in secondi)
+
+
+Creare il jar ed eseguire dopo aver avviato il server:
+```
+java -jar MyTablutClient.jar white 60
+```
+
+
+Il server può essere trovato [qui](https://github.com/AGalassi/TablutCompetition).
+
+
+Sono disponibili altri client in src/it/unibo/ai/didattica/competition/tablut/client:
+- random player
+- human player (mosse selezionabili da linea di comando)
+
+
+Progetto sviluppato da [L. Perugini](https://github.com/leonardoperu), [M. Rossi](https://github.com/smartisrossi), M. Minerva, D. Altena. :it:
+
+
