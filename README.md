@@ -27,7 +27,7 @@ Additional client versions can be found in src/it/unibo/ai/didattica/competition
 - human player (insert moves from command line)
 
 
-Project developed by [L. Perugini](https://github.com/leonardoperu), [M. Rossi](https://github.com/smartisrossi), M. Minerva, D. Altena. :it:
+Project developed by [L. Perugini](https://github.com/leonardoperu), [M. Rossi](https://github.com/smartisrossi), [M. Minerva](https://github.com/mminerva), D. Altena. :it:
 
 
 # :it: Tablut Challenge 2019
@@ -58,6 +58,6 @@ Sono disponibili altri client in src/it/unibo/ai/didattica/competition/tablut/cl
 - human player (mosse selezionabili da linea di comando)
 
 
-Progetto sviluppato da [L. Perugini](https://github.com/leonardoperu), [M. Rossi](https://github.com/smartisrossi), M. Minerva, D. Altena. :it:
+Progetto sviluppato da [L. Perugini](https://github.com/leonardoperu), [M. Rossi](https://github.com/smartisrossi), [M. Minerva](https://github.com/mminerva), D. Altena. :it:
 
 
