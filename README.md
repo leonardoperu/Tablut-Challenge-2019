@@ -10,7 +10,7 @@ The algorithm is an Iterative Deepening Search with Alpha-Beta cuts (from Aima 3
 
 The main class is src/it/unibo/ai/clientImplementation/MyTablutClient. It accepts two arguments:
 - the colour you want to play (black or white)
-- the maximum time for searching in the space of states (in seconds)
+- the maximum time for searching in the state space (in seconds)
 
 
 Create the jar archive and run the player after having started the game server.
